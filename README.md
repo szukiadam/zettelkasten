@@ -1,1 +1,1 @@
-Use <ztl> command to create template zettelkasten
+Use `ztl` command to create template zettelkasten
