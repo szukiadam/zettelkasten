@@ -6,5 +6,5 @@
 3. Update your command file through terminal `source ~/.yourfilenamehere`
 4. Run your commands ! 
 
-## Tags: # 
+## Tags: #linux #bash #command #unix
 
