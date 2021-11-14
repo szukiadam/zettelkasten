@@ -1,6 +1,6 @@
-#Title: MakingDecisionsAndGettingInTheRoom
-##Source: https://roundup.getdbt.com/p/data-spaghetti-brave-decisions-data-roi?token=eyJ1c2VyX2lkIjozMjIwMjc5MywicG9zdF9pZCI6NDQwMTA4NDgsIl8iOiI2Z0ZjVCIsImlhdCI6MTYzNjg5ODc5MiwiZXhwIjoxNjM2OTAyMzkyLCJpc3MiOiJwdWItMzcwOTg4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.eN2lksibLhErXe0gEo6P88EIJsuCLReHgeWiBmhzOKQ 
-##Summary: 
+# Title: MakingDecisionsAndGettingInTheRoom
+## Source: https://roundup.getdbt.com/p/data-spaghetti-brave-decisions-data-roi?token=eyJ1c2VyX2lkIjozMjIwMjc5MywicG9zdF9pZCI6NDQwMTA4NDgsIl8iOiI2Z0ZjVCIsImlhdCI6MTYzNjg5ODc5MiwiZXhwIjoxNjM2OTAyMzkyLCJpc3MiOiJwdWItMzcwOTg4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.eN2lksibLhErXe0gEo6P88EIJsuCLReHgeWiBmhzOKQ 
+## Summary: 
 1. Chart of roadmap/stakeholder death cycle -> "The research (=data) death cycle" 
 2. DAs need to eavesdrop and interrupt. 
 3. During meetings look for unchallenged assumptions and unsolved customer mysteries and then volunteer to research those questions.
@@ -10,5 +10,5 @@
 
 
 
-##Tags: #dataanalyst #analyticsengineeringroundup #organization #management 
+## Tags: #dataanalyst #analyticsengineeringroundup #organization #management 
 

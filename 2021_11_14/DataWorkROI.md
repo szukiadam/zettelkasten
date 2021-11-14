@@ -1,6 +1,6 @@
-#Title: DataWorkROI
-##Source: https://roundup.getdbt.com/p/data-spaghetti-brave-decisions-data-roi?token=eyJ1c2VyX2lkIjozMjIwMjc5MywicG9zdF9pZCI6NDQwMTA4NDgsIl8iOiI2Z0ZjVCIsImlhdCI6MTYzNjg5ODc5MiwiZXhwIjoxNjM2OTAyMzkyLCJpc3MiOiJwdWItMzcwOTg4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.eN2lksibLhErXe0gEo6P88EIJsuCLReHgeWiBmhzOKQ
-##Summary: 
+# Title: DataWorkROI
+## Source: https://roundup.getdbt.com/p/data-spaghetti-brave-decisions-data-roi?token=eyJ1c2VyX2lkIjozMjIwMjc5MywicG9zdF9pZCI6NDQwMTA4NDgsIl8iOiI2Z0ZjVCIsImlhdCI6MTYzNjg5ODc5MiwiZXhwIjoxNjM2OTAyMzkyLCJpc3MiOiJwdWItMzcwOTg4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.eN2lksibLhErXe0gEo6P88EIJsuCLReHgeWiBmhzOKQ
+## Summary: 
 1. Scale of Systems people - KPI people (DE, AE, DA, DS, MLE)
 2. Prioritization is important
 > If you’re a Systems Person constantly evaluate how your work impacts downstream consumers (🖇), how many consumers you have (🎳) and how much time you spend (⌛️).
@@ -20,5 +20,5 @@
 ## Related:
 1. [How to think about the ROI of data work](https://mikkeldengsoe.substack.com/p/roi-of-data-work)
 
-##Tags: #datateam #ROI #team 
+## Tags: #datateam #ROI #team 
 
