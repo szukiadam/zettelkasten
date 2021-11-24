@@ -27,7 +27,9 @@
         1. Implement for the short term while waiting for the long term
     1. Deployment
         > poll our internal storage directory every 10 minutes to check if there was a new revision of the model; if so, the service would pull the model down from where it was stored and start using that model to make predictions
+        
         > The first step in automating retraining is automating train dataset and test dataset curation, fetching the correct features and performing the necessary feature transformations. 
+        
         > Enabling CI/CD for retraining and model deployment is hard, but it’s becoming easier with the new tools available and makes the quality and reliability of our models better. And at first glance, you might not think you need retraining for a model because of the task it performs, but without it, your model could make predictions in unpredictable ways and increase your tech debt.
 
 ## Further readings: 
